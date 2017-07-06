@@ -1,7 +1,7 @@
 
 CFG COMPETITION WEBSITE
+https://fiontanyf.github.io/Gallery_test/
 
-Contributing
-FROM PARTICIPATE MEMBERS ONLY
+PARTICIPATE MEMBERS ONLY
 
 
